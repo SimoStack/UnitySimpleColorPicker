@@ -5,7 +5,7 @@ The color picker throw onSubmit events that must be subscriben to listen the col
 The Color picker will fit the parent container in which the prefab is put, suggested size for the prent container is 375x450 px.  
 
 ## Unity Package download
-The unity package of the color picker is available here for download [here](https://github.com/SimoStack/UnitySimpleColorPicker/blob/0514eabe015ad98b5c64af67380f9d23ead9e048/ColorPicker.unitypackage)
+The unity package of the color picker is available for download from the releases section of GitHub as attachment of the release.  
 
 ## Basic Usage
 1. Import the package into your project.  
